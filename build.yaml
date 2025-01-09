@@ -23,7 +23,7 @@ include:
     shield: duet nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: molekula_studio_nice_view
+    artifact-name: duet_studio_nice_view
 
   - board: nice_nano_v2
     shield: settings_reset
